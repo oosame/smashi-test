@@ -1,0 +1,1 @@
+.slide{animation:slideshow 30s linear;transform:translate(0)}@keyframes slideshow{to{-webkit-transform:translateX(-100%)}}
